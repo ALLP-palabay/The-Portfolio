@@ -1,2 +1,3 @@
-profile.jpeg
-project1.jpeg
+image: "profile.jpeg"
+image: "project1.jpeg"
+image: "project2.jpeg"
