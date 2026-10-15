@@ -14,14 +14,9 @@ const profileData = {
      
      projects: [
          {
-             title: "📝 Research Paper",
-             description: "Conducted research and wrote a complete academic paper.",
-             image: "images/project1.jpg"
-         },
-         {
              title: "📊 Presentation",
              description: "Created slides to present a topic clearly to the class.",
-             image: "images/project1.jpg"
+             image: "Group5Justice-and-Fairness-1.pptx"
          }
      ]
  };
